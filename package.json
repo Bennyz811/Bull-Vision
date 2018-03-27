@@ -7,7 +7,9 @@
     "d3": "^5.0.0",
     "webpack": "^4.3.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "webpack-cli": "^2.0.13"
+  },
   "scripts": {
     "webpack": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
