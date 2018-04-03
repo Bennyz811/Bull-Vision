@@ -1,7 +1,6 @@
 {
   "name": "bull-vision",
   "version": "1.0.0",
-  "description": "",
   "main": "webpack.config.js",
   "dependencies": {
     "babel-core": "^6.26.0",
@@ -12,7 +11,8 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1",
-    "webpack-cli": "^2.0.13"
+    "webpack-cli": "^2.0.13",
+    "webpack-dev-server": "^3.1.1"
   },
   "scripts": {
     "webpack": "webpack --watch",
@@ -20,5 +20,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bennyz811/Bull-Vision.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bennyz811/Bull-Vision/issues"
+  },
+  "homepage": "https://github.com/Bennyz811/Bull-Vision#readme",
+  "description": ""
 }
