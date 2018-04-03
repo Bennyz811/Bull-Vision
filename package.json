@@ -2,12 +2,15 @@
   "name": "bull-vision",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "webpack.config.js",
   "dependencies": {
+    "babel-loader": "^7.1.4",
     "d3": "^5.0.0",
     "webpack": "^4.3.0"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
     "webpack-cli": "^2.0.13"
   },
   "scripts": {
