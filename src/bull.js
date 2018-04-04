@@ -1,1 +1,1 @@
-// d3.json(https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=MSFT&interval=1min&apikey=QQIMSBB8Z2U94266);
+import {fetchAlphaAPI} from '../util/stock_api.js';
